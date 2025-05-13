@@ -5,30 +5,28 @@ title: "Day 0 - Planning"
 
 ### Project Focus
 
-[What kind of project are you planning to build? Give it a working title and briefly describe what it is (e.g., a game, simulation, interactive story). What makes it interesting or challenging?]
+The focus of my project is to build a functioning minesweeper game
 
 ---
 
 ### Why This Project 
 
-[What drew you to this idea? How does it connect to something you’re interested in—whether in or outside of class? Why is this the right project for *you* to work on right *now*?]
+I really enjoy playing minesweeper, I have been playing it as a fun little pasttime in and outside of school. I think it would be cool if I said I was able to actually code a game that I myself enjoy playing.
 
 ---
 
 ### What I Want to Learn
 
-[What programming concepts do you want to strengthen through this project (e.g., functions, conditionals, loops, data structures)?  
-Beyond coding, what personal or creative skills are you hoping to build—like debugging, problem solving, design, or perseverance?]
+I want to learn how to use GUI and actively respond to user intput from that GUI. I think this expands my knowledge of python if I can make code that updates depending on what a user does at any certain point.
 
 
 
 ### My Approach 
 
-[How do you plan to structure your time over the next two weeks? What will you focus on first? What will you prioritize later?  
-What does “done enough” look like to you—and how will you decide when to stop polishing?]
+I think that I will start with GUI, once I learn how to actually set up the board, I will then learn how to read user input. After I learn how to read user input I can put reactions, and therefore begin the game. I will start with whether or not a mine is on a square and the dying function, because that is the basis of the game, if I have a good amount of time I will then add flags and might be able to get to the niche functions, such as the game automatically getting rid of squares that don't have any number that indicate if there are mines nearby.
 
 ---
 
 ### What's Next
 
-[What do you plan to tackle in the next stage of your project?]
+I plan to learn user GUI and user input first.
