@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Day 2 - Starting the game"
+---
+
+### What I Set Out to Do
+Today I set out to continue my text based game for minseweeper. I wanted to make it so the baord the player saw and the board that the computer checks were different, so that the player couldn't always see where all the mines are. I also wanted to make numbers were there were mines so that it wasn't just a guessing game and there is some skill associated with it.
+
+---
+
+### What I Actually Did
+
+First I worked on the two seperate boards, one that the player sees and one that the computer sees. I did this by printing a sperate board that the computer checks, I also made it so that when you click on a coordinate, it gets rid of it and replaces it with an empty space. I began working on the numbers that show how many mines are near the coordinate, this proved a lot more difficult because there are nine different edge cases that I have to account for. I started on the edge cases after I finished the board and I am about half way through the edge cases.
+---
+
+### What I Learned or Noticed
+
+When I first started I was wondering whether or not I should add numbers that represent the mines surrounding a certain coordinate, but then I realized it would be completely luck based and almost impossible if I didn't. I realized that this is actually quite a simple process once I get rid of the edge cases, because of the way I use coordinates with nested lists, I can just do the coordinates plus or minus one multiple times and it'll be able to check the mines. The edge cases are so important because if you try to check a case and try to index 15 when the maximum is 14, it will give an index out of range error, so those edge cases are important.
+
+---
+
+### What's Next
+
+I aim to complete the edge cases in day 3, and hope to implement a peice of code that, if there is a square that doesn't have any mines on it, it automatically clears all the ones around it, because that happens in the base game. Another peice of code that I might want to add is one that makes it so the first move is never a mine, so that you don't just lose automatically.
