@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Day 3 - Continuing the game"
+---
+
+### What I Set Out to Do
+Today I set out to complete the edge cases, and make it so every coordinate around a mine that doesn't have any mines around it is automatically cleared, and also make a first move function that makes sure you don't lose on teh first game. I had some ideas of what I wanted to do, but I didn't know if the time period was realistic.
+
+---
+
+### What I Actually Did
+
+Today I started with the edge cases, at first it looked like a very large task to tackle, but I just decided to start it and see how far I get. This task was a lot easier than I thought, it was very tedious at first, but once I got a couple of the cases done it was just copy, pasting, and tweaking a little. After I did the edge cases, I started on the first click function, I had a pretty good idea of what I wanted to do, but I didn't know if it was going to work. I tried out my idea and it worked very well, by just randomizing a bunch of different coordinates around the first click it made a nice open space so that the game was playable. 
+---
+
+### What I Learned or Noticed
+
+Something I learned today was that variables are very useful, I only realized today that a couple parts of my project could be minimized with assigning certain parts to variables. I considered going back and changing them to variables, but I felt like I was already too far in to change anything major like that.
+---
+
+### What's Next
+
+Right now my code is a little buggy, so thats going to be my first goal to fix those bugs, once I fix those bugs, I will most likely have finished the task of making it so the first click also includes the number of mines that are around it. I am mostly done with my code after that, but I will continue polishing the game after that.
