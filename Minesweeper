@@ -1,0 +1,6 @@
+Instructions to play my game!
+
+Follow this link to access my colab notebook for my project: https://colab.research.google.com/drive/14owg5ViYcwe-R9yhAvPLXw3GxVKOpfIe
+Go to "Runtime" then click "Run all" to get the code cells functioning
+The function should have already ran, but if it hasn't click run on the "minesweeper" function at the tope
+Follow the instructions from there and have fun with my game!
