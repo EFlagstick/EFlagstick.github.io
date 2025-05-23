@@ -15,7 +15,7 @@ This project was part of my final quest in Introduction to programming, and it r
 
 > Curious about what I’d do differently or recommend to others? Read my final thoughts here: [Final Tip & Takeaways](_posts/2025-05-23-tip.md)
 
-🛠️ [Source Code (GitHub)](https://github.com/EFlagstick/minesweeper)  
+🛠️ [Source Code (GitHub)](files/README.md)  
 
 ## Dev Log
 
