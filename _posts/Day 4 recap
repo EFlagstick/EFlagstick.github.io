@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Day 4 - Bug fixes"
+---
+
+### What I Set Out to Do
+On day 4 I set out to complete as much of the game as possible, I started where I set off the previous days, so I wanted to fix a lot of bugs and add a little.
+---
+
+### What I Actually Did
+
+On day 4, bugs were a lot more prominant that I thought. I started out trying to fix stuff that I knew what was wrong, but I found a lot of different bugs, I would go back in functions to see what I did there and try to copy it to replicate it, but then I would realise that the code I was basing it off was wrong. Some of these bugs were small, such as forgetting to add a "()", and some of them were very big and took a while to fix. Bug fixing was the major thing that it did on day 4.
+---
+
+### What I Learned or Noticed
+
+Something I noted today was that going back over your code is very helpful. I was going over my code to try to fix specific bugs, and I ended up imporving my code by a lot, because I was adding things that were wrong before, and improving them a lot. I think that going over my code, and doing a little bit of tracing, is very useful, because it helps you to know that what you are doing is right and your code doesn't just appear to be functioning.
+---
+
+### What's Next
+
+Once I finish bug fixing, I will make it so it is possible to actually win the game, and then I will be done.
